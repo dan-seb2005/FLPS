@@ -1,0 +1,59 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=150.00
+Tracks=1
+ProjectName=all stars dj hally boo
+VoiceDir=C:\Users\Owner\Downloads\dj hallyboo Voicebank
+OutFile=all stars dj hally boo.wav
+CacheDir=all stars dj hally boo.cache
+Tool1=wavtool.exe
+Tool2=resampler.exe
+Mode2=True
+[#0000]
+Length=579840
+Lyric=R
+NoteNum=60
+PreUtterance=
+Tempo=150.00
+[#0001]
+Length=480
+Lyric=a
+NoteNum=64
+PreUtterance=
+Intensity=100
+Modulation=0
+Envelope=0,5,10,0,100,96,0
+PBS=-2;-13.7
+PBW=0138,43
+PBY=-21.2,0.0
+PBM=r,
+[#0002]
+Length=180
+Lyric=a
+NoteNum=67
+PreUtterance=
+Intensity=100
+Modulation=0
+Envelope=0,5,10,0,100,96,0
+PBS=-25
+PBW=50
+PBY=0
+[#0003]
+Length=60
+Lyric=R
+NoteNum=67
+PreUtterance=
+[#0004]
+Length=1200
+Lyric=a
+NoteNum=66
+PreUtterance=
+Intensity=100
+Modulation=0
+Envelope=0,5,10,0,100,96,0
+PBS=-2;-13.7
+PBW=0138,43
+PBY=-21.2,
+PBM=r,
+[#TRACKEND]

@@ -1,0 +1,67 @@
+[#VERSION]
+UST Version1.2
+[#SETTING]
+Tempo=150.00
+Tracks=1
+ProjectName=all stars dj hally boo
+VoiceDir=C:\Users\Owner\Downloads\dj hallyboo Voicebank
+OutFile=all stars dj hally boo.wav
+CacheDir=all stars dj hally boo.cache
+Tool1=wavtool.exe
+Tool2=doppeltler64.exe
+Mode2=True
+[#0000]
+Length=579840
+Lyric=R
+NoteNum=60
+PreUtterance=
+Tempo=150.00
+[#0001]
+Length=480
+Lyric=a
+NoteNum=64
+PreUtterance=
+Intensity=100
+Modulation=0
+Envelope=0,5,10,0,100,96,0
+PBS=-45;0.0
+PBW=047,47,134,64
+PBY=-61.3,-16.0,-19.3,0.0
+PBM=r,r,r,r
+[#0002]
+Length=180
+Lyric=a
+NoteNum=67
+PreUtterance=
+Intensity=100
+Modulation=0
+Envelope=0,5,10,0,100,96,0
+PBS=0
+PBW=0
+PBY=0
+[#0003]
+Length=60
+Lyric=R
+NoteNum=67
+PreUtterance=
+[#0004]
+Length=1200
+Lyric=a
+NoteNum=66
+PreUtterance=
+Intensity=100
+Modulation=0
+PBType=5
+PitchBend=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,-1,-1,-1,-1,0,1,2,3,4,6,7,9,11,13,14,16,17,19,20,21,21,22,22,22,21,20,19,17,15,12,9,6,3,-1,-5,-9,-13,-17,-21,-25,-29,-32,-36,-39,-42,-44,-45,-45,-45,-44,-43,-41,-39,-36,-33,-30,-26,-22,-17,-12,-8,-3,2,7,12,16,21,25,29,33,36,39,41,43,44,45,45,45,44,43,41,38,35,31,27,23,18,14,10,5,1,-3,-6,-10,-13,-15,-18,-20,-21,-23,-23,-24,-24,-24,-23,-22,-21,-20,-18,-16,-15,-13,-11,-9,-7,-6,-4,-2,-1,0,1,1,2,2,2,2,2,1,1,0,0
+Envelope=0,5,10,0,100,96,0
+PBS=-45;0.0
+PBW=46,10,135,10,223,16,190,13,402,0
+PBY=-61.3,-19.3,-19.3,-0.6,-2,-20.3,-21.7,-39.6,-40.3,0.0
+PBM=r,r,r,r,r,r,r,r,r,r
+VBR=55,240,45,36,36,50,0,0
+PBStart=0
+[#0005]
+Length=1920
+Lyric=R
+NoteNum=60
+[#TRACKEND]

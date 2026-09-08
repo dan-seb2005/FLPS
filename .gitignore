@@ -1,0 +1,60 @@
+# ==========================================
+# FL Studio Projects
+# ==========================================
+
+# Backups
+**/Backup/
+**/backup/
+**/BACKUP/
+
+# SoundFonts
+*.sf2
+*.sf3
+*.sfz
+
+# Archivos comprimidos
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.tgz
+*.bz2
+*.xz
+*.cab
+*.iso
+
+# Imágenes
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.tiff
+*.tif
+*.ico
+
+# Temporales
+*.tmp
+*.temp
+*.bak
+*.old
+*.autosave
+*.log
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editores
+*.swp
+*.swo
+*~

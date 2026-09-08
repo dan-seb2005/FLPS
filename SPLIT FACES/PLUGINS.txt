@@ -1,0 +1,5 @@
+--PLUGINS PARA SPLIT FACES--
+
+1- Diamond Dragon
+
+2- MagicalBitPlugin2
