@@ -58,3 +58,7 @@ $RECYCLE.BIN/
 *.swp
 *.swo
 *~
+
+# FLPs demasiado pesados que no quiero subir
+/Omnipresent Remix FLP/Omnipresent Remix.flp
+/UNBEATABLE/UNBEATABLEVocer.flp
